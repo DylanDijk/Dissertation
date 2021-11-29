@@ -1,9 +1,13 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Work Flow Report Figures"
   left:
-    - text: "Home"
+    - text: "Figure 1"
       href: index.html
-    - text: "About Me"
+    - text: "Figure 2"
       href: about.html
+    - text: "Figure 3"
+      href: figure3.html
+    - text: "Figure 4"
+      href: figure4.html
