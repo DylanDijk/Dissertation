@@ -1,13 +1,8 @@
 base
-methods
-datasets
-utils
-grDevices
-graphics
-stats
 cranly
 RWsearch
 igraph
 ggplot2
 plotly
 stringr
+scales
