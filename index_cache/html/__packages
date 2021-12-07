@@ -8,3 +8,5 @@ Matrix
 lattice
 bc3net
 stringr
+ggplot2
+plotly
